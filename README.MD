@@ -1,4 +1,4 @@
-On this repo you will learn how to create a minimum decentraliced exchange.
+On this repo you will learn how to create a minimal decentraliced exchange.
 
 This repo follows the lesson 13 developed by Patrick Collins and FreeCodeCamp.
 
